@@ -1,9 +1,9 @@
 ### Olá, eu sou a Bel 😊✌🏼
  <br><br>
- <div align="center" width="800">
+ <div align="center" width="900">
   <a href="https://github.com/Isabelcf">
-  <img style="height: 180px; width: 350px" src="https://github-readme-stats.vercel.app/api?username=Isabelcf&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img style="height: 180px; width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelcf&layout=compact&langs_count=7&theme=omni"/>
+  <img style="height: 180px; width: 400px" src="https://github-readme-stats.vercel.app/api?username=Isabelcf&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img style="height: 180px; width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelcf&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
